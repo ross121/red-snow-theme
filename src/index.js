@@ -1,7 +1,7 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-light-mode': {
+      'plugin-redsnow-mode': {
         cssPath: 'styles/light.css',
         darkMode: false
       }
