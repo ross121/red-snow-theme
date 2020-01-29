@@ -38,15 +38,15 @@
   --theme-wallet-sign-verify-message-text: #c5cfde;
   --theme-wallet-grid-shadow: 0 5px 30px rgba(124,138,192,0.22);
 
-  --theme-feature: white;
-  --theme-feature-item-text: #c0cddf;
+  --theme-feature: #f7f7f7;
+  --theme-feature-item-text: #40434E;
   --theme-feature-item-hover: #fef4f5;
   --theme-feature-item-alternative: #f0f2f9;
   --theme-feature-item-alternative-text: #8b9bab;
-  --theme-feature-item-hover-text: #e6b1b5;
-  --theme-feature-item-selected: #fef4f5;
-  --theme-feature-item-selected-text: #ce6970;
-  --theme-feature-item-indicator: #f03643;
+  --theme-feature-item-hover-text:  #f7f7f7;
+  --theme-feature-item-selected: #F0134D;
+  --theme-feature-item-selected-text: #f7f7f7;
+  --theme-feature-item-indicator: #40434E;
 
   --theme-secondary-feature: #f7f9fb;
 
