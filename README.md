@@ -9,4 +9,4 @@ The default ARK wallet theme with a bit more red.
 
 ## License
 
-[MIT](LICENSE) © [OWNER](https://github.com/ross121)
+[MIT](LICENSE) © [ross121](https://github.com/ross121)
