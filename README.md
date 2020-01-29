@@ -1,20 +1,12 @@
-(**THIS IS A TEMPLATE**)
-
-# Theme name - ARK Desktop Wallet plugin
-Description of your theme
+# Red Snow - ARK Desktop Wallet Plugin
+The default ARK wallet theme with a bit more red.
 
 ## Installation
 
- 1. Clone this repository or [download it](https://github.com/ark-ecosystem-desktop-plugins/theme-template/archive/master.zip) and unzip it into `~/.ark-desktop/plugins/`.
- 2. Start the desktop wallet.
- 3. Enable the plugin on the plugin section.
- 4. Change theme in the Settings menu, on the sidebar.
-
-## Credits
-
-- [Your Name](URL)
-- [All Contributors](../../contributors)
+ 1. Start the desktop wallet.
+ 2. Enable the plugin on the plugin section.
+ 3. Change theme in the Settings menu, on the sidebar.
 
 ## License
 
-[MIT](LICENSE) © [OWNER](URL)
+[MIT](LICENSE) © [OWNER](https://github.com/ross121)
