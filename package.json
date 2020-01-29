@@ -7,7 +7,7 @@
   "license": "MIT",
   "desktop-wallet": {
     "title": "Red Snow Theme",
-    
+    "logo": "https://raw.githubusercontent.com/ross121/red-snow-theme/master/logo.png",
     "categories": [
       "theme"
     ],
