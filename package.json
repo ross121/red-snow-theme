@@ -1,6 +1,6 @@
 {
   "name": "@ross121/red-snow-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The ARK wallet theme with a bit more red.",
   "main": "src/index.js",
   "author": "ross121",
